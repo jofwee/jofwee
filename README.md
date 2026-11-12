@@ -10,4 +10,4 @@ Web apps · desktop tools · automation · reinforcement learning
 - **ML & visualization** · PyTorch, NumPy, deep Q-learning, Pygame, Matplotlib, NLP summarization
 - **Workflow** · Git, GitHub Actions, Playwright, automated testing, web scraping
 
-[Courtside](https://github.com/jofwee/courtside-fantasy-basketball) · [Screen Time](https://github.com/jofwee/python-screentime-tracker) · [Fire Evacuation AI](https://github.com/jofwee/Evacuation-Simulation--Fire-Stable-) · [News Automation](https://github.com/jofwee/News-Python-Automation) · [BN Viewer](https://github.com/jofwee/BN-Open-Viewer)
+[Baby Face Studios](https://www.babyfacestudios.net/) · [Courtside](https://courtside-fantasy-basketball.vercel.app/) · [News Automation](https://github.com/jofwee/News-Python-Automation) · [osu! BN viewer](https://github.com/jofwee/BN-Open-Viewer)  · [Others](https://github.com/jofwee?tab=repositories)

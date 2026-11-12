@@ -1,6 +1,6 @@
-# Jeoffrey Delos Reyes
+![Jeoffrey Delos Reyes — web apps, desktop tools, automation, and reinforcement learning](assets/hero.svg)
 
-Web apps · desktop tools · automation · reinforcement learning
+<p align="center"><strong>Discord</strong> · <code>jofwee</code></p>
 
 [![Python, TypeScript, React, Next.js, HTML, CSS, Supabase, PostgreSQL, SQLite, PyTorch, Git, and GitHub Actions](assets/stack.svg)](https://skillicons.dev)
 

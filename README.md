@@ -14,4 +14,4 @@
 - **ML & visualization** · PyTorch, NumPy, deep Q-learning, Pygame, Matplotlib, NLP summarization
 - **Workflow** · Git, GitHub Actions, Playwright, automated testing, web scraping
 
-[Baby Face Studios](https://www.babyfacestudios.net/) · [Microsleep Detection](https://github.com/jofwee/Microsleep-Detection-for-Night-Shift-BPO-Agents) · [Courtside](https://courtside-fantasy-basketball.vercel.app/) · [News Automation](https://github.com/jofwee/News-Python-Automation) · [After Hours](https://github.com/ey2ron/RVASA2) · [Others](https://github.com/jofwee?tab=repositories)
+[Baby Face Studios](https://www.babyfacestudios.net/) · [Microsleep Detection](https://github.com/jofwee/Microsleep-Detection-for-Night-Shift-BPO-Agents) · [Courtside](https://courtside-fantasy-basketball.vercel.app/) · [News Automation](https://github.com/jofwee/News-Python-Automation) · [After Hours](https://waneellagallery.vercel.app) · [Others](https://github.com/jofwee?tab=repositories)
